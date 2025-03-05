@@ -8,13 +8,13 @@
         body {
             font-family: Arial, sans-serif;
             background-image: url('Изображение WhatsApp 2025-03-05 в 20.31.56_d58c429f.jpg');
-            color: #333;
+            color: #FF4500;
             margin: 0;
             padding: 20px;
         }
         h1 {
             text-align: center;
-            color: #2e8b57;
+            color: #FF4500;
         }
         .container {
             max-width: 800px;
@@ -49,7 +49,7 @@
             text-align: center;
             margin-top: 20px;
             font-size: 0.9em;
-            color: #777;
+            color: #800000;
         }
     </style>
 </head>
