@@ -7,7 +7,7 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f0f8ff;
+            background-image: url('Изображение WhatsApp 2025-03-05 в 20.31.56_d58c429f.jpg');
             color: #333;
             margin: 0;
             padding: 20px;
@@ -60,10 +60,10 @@
     <p>Гуси - это водоплавающие птицы, которые известны своим характерным гусем и громким гоготом. Давайте узнаем о них больше и посмеемся вместе!</p>
     <div class="image-container">
         <div class="image-placeholder">
-            <img src="https://example.com/goose1.jpg" alt="Гусь на озере">
+            <img src="ванна.jpg" alt="Гусь на озере">
         </div>
         <div class="image-placeholder">
-            <img src="https://example.com/goose2.jpg" alt="Гуси на пастбище">
+            <img src="еда.jpg" alt="Гуси на пастбище">
         </div>
     </div>
     <h2>Интересные факты о гусях</h2>
@@ -78,14 +78,14 @@
     <h2>Мемы о гусях</h2>
     <div class="image-container">
         <div class="image-placeholder">
-            <img src="https://example.com/meme1.jpg" alt="Мем о гусях">
+            <img src="туалет.jpg" alt="Мысли в туалете 🦢">
         </div>
         <div class="image-placeholder">
-            <img src="https://example.com/meme2.jpg" alt="Еще один мем о гусях">
+            <img src="сон.jpg" alt="Учёба-это хорошо,но сон лучше 🦢">
         </div>
     </div>
     <footer>
-        <p>© 2023 Все права защищены. Информация о гусях и шутки.</p>
+        <p>Сделано Дарьей для своей сестры Варвары 05.03.25</p>
     </footer>
 </div>
 
